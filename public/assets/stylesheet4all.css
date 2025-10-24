@@ -1,0 +1,135 @@
+  h1 {
+            text-align:center;
+            font-family: 'Gothic';
+            border-radius:20px;
+            background-color: #fa552c;
+            color: white;
+            
+        }
+        h3{
+            text-align:center;
+            font-family: "Gothic";
+            color: white;
+        }
+
+        p { 
+             text-align:center;
+            font-family: "Gothic";
+            background-color:#f18b63;
+            display: block;
+            width: 60%;
+            border-radius: 20px;
+            padding: 15px;
+            margin-left: auto;
+            margin-right: auto;
+            background-image:url('assets/hrm.jpg');
+            background-size: cover;
+            border-width: 30px;
+            border-color: #fa552c;
+            
+        }
+
+        table {
+          table-layout: auto;
+          width: 90%;
+          margin: 30px auto;
+          font-family: "Gothic";
+          font-size: 18px;
+          text-align: left;
+          box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+          border-radius: 16px;
+          overflow: hidden;
+          border-bottom: #553229;
+        }
+        
+        th{
+          background: hsla(4, 80%, 80%, 0.5);
+          color: white;
+          padding: 16px 20px;
+          font-size: 20px;
+          border:#fa552c;
+          border-width: 3px;
+        }
+        
+        td {
+          padding: 14px 20px;
+          border-bottom: 1px solid #c78b8b;
+          background-color: #fa552c;
+          color: white;
+        }
+        
+        tr:hover{
+          background-color: #fff8ea;
+          transition: background-color 0.2s ease;
+        }
+
+        img {
+            width:200px;
+            height:210px;
+        }
+
+        body {
+            background-color: rgb(224, 113, 113);
+            background-image: url('assets/awo.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        ul.navbar {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            position: sticky;
+            top: 0;
+            background-color:#fa552c;
+            text-align: center;
+            font-size: 25px;
+            overflow: hidden;
+        }
+
+        li a{
+            transition: background-color 0.2s ease;  
+            padding: 20px;
+            display: inline-block;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        li a:hover{
+             background-color: #eaf2ff;
+            padding: 20px;
+        }
+
+        li {
+            float: left;
+            display:inline;
+        }
+        
+        footer {
+            color:white;
+            text-align: center;
+        }
+
+        ul {
+            text-align: left;
+            color: white
+        }
+
+        a:link{
+            color:#f18b63;
+            background-color: transparent;
+            text-decoration: none;
+        }
+
+        a:visited{
+            color:hsla(4, 80%, 80%, 0.5);
+            background-color: transparent;
+            text-decoration: none;
+        }
+
+        a:hover{
+            color:#fa552c;
+            background-color: transparent;
+            text-decoration: underline overline wavy #fa552c;
+        }
