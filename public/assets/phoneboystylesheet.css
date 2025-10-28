@@ -1,0 +1,32 @@
+div.about-me-section {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    border: solid 2px #000000;
+}
+
+div.extrainfo-section {
+    background-color: #e0e0e0;
+    padding: 20px;
+    border-radius: 5px;
+    border: solid 2px #000000;
+}
+
+div.the-phoneboy-section {
+    background-color: #d0d0d0;
+    padding: 20px;
+    border-radius: 5px;
+    border: solid 2px #000000;
+}
+
+div.bandmembers {
+    margin-bottom: 20px;
+    border: solid 2px #000000;
+}
+
+div.Albums img {
+    max-width: 100%;
+    height: 100px;
+    width: 100px;
+    border: solid 2px #000000;
+}
